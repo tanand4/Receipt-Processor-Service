@@ -13,8 +13,8 @@ The Receipt Processor Service is a web service designed to process receipts, cal
     
     bashCopy code
     
-    `git clone https://github.com/tanand4/Receipt-Processor-Service
-    cd Receipt-Processor-Service/receipt-processor` 
+    `git clone https://yourrepositorylink/receipt-processor.git
+    cd receipt-processor` 
     
 2.  **Build the Application**
     
@@ -41,8 +41,8 @@ The Receipt Processor Service is a web service designed to process receipts, cal
     
     bashCopy code
     
-    `git clone https://github.com/tanand4/Receipt-Processor-Service
-    cd Receipt-Processor-Service/receipt-processor` 
+    `git clone https://yourrepositorylink/receipt-processor.git
+    cd receipt-processor` 
     
 2.  **Build the Docker Image**
     
